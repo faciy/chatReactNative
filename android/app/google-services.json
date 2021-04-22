@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524743079369",
+    "project_id": "ziplivreur-a5242",
+    "storage_bucket": "ziplivreur-a5242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524743079369:android:0fb4cef03686d5df946418",
+        "android_client_info": {
+          "package_name": "com.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524743079369-uvtbv9gl7calih3p10pp5og3g6vheptk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwTItO-mnyzcQZFx5MTVTiWZE7rrra5Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524743079369-uvtbv9gl7calih3p10pp5og3g6vheptk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
